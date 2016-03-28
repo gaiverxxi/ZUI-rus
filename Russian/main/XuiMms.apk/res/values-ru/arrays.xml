@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="empty_subject_strings">
+        <item>без темы</item>
+    </string-array>
+    <string-array name="default_smiley_names">
+        <item>Happy</item>
+        <item>Sad</item>
+        <item>Winking</item>
+        <item>Tongue sticking out</item>
+        <item>Surprised</item>
+        <item>Kissing</item>
+        <item>Yelling</item>
+        <item>Cool</item>
+        <item>Money mouth</item>
+        <item>Foot in mouth</item>
+        <item>Embarrassed</item>
+        <item>Angel</item>
+        <item>Undecided</item>
+        <item>Crying</item>
+        <item>Lips are sealed</item>
+        <item>Laughing</item>
+        <item>Confused</item>
+        <item>Heart</item>
+        <item>Mad</item>
+        <item>Smirk</item>
+        <item>Poker face</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 секунда</item>
+        <item>2 сек.</item>
+        <item>3 сек.</item>
+        <item>4 сек.</item>
+        <item>5 секунд</item>
+        <item>6 секунд</item>
+        <item>7 секунд</item>
+        <item>8 секунд</item>
+        <item>9 секунд</item>
+        <item>10 секунд</item>
+        <item>Другое</item>
+    </string-array>
+    <string-array name="default_quick_texts">
+        <item>Sorry, I have a meeting now.</item>
+        <item>What are you doing?</item>
+        <item>Call you soon.</item>
+        <item>我在开会, 稍后回复您</item>
+        <item>有什么事吗？</item>
+        <item>现在不方便接电话，有事请留言。</item>
+    </string-array>
+    <string-array name="antispam_mode_list">
+        <item>Blocked numbers</item>
+        <item>Only allow contacts</item>
+        <item>Only allow exceptions</item>
+    </string-array>
+    <string-array name="antispam_endcall_mode_list">
+        <item>Return busy tone</item>
+        <item>Return Power Off</item>
+        <item>Return Shut Down</item>
+        <item>Return Vacant Number</item>
+    </string-array>
+    <string-array name="classifies">
+        <item>广告推销</item>
+        <item>疑似诈骗</item>
+        <item>骚扰电话</item>
+        <item>房产中介</item>
+        <item>快递送餐</item>
+    </string-array>
+    <string-array name="antispam_autoclean_period">
+        <item>7 дней</item>
+        <item>30 дней</item>
+    </string-array>
+</resources>

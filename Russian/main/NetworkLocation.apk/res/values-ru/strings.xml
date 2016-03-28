@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NetworkLocation</string>
+    <string name="app_label">Network Location</string>
+    <string name="location_warning_title">Location consent</string>
+    <string name="location_warning_title_first">Location consent</string>
+    <string name="location_warning_title_close">Location consent</string>
+    <string name="location_warning_message">"When the NLP (Network Location Provider) function is opened, you will allow Baidu NLP service to collect anonymous location data. Some data may be encrypted and stored on your device. Encryption and collection may occur even when no apps are running. You will be charged for data traffic. The data encrypted and collected will be used for getting the location information and improving the performance and accuracy. We promise the data collected will not be provided to others or be used for other purposes except to render services. The data to be collected includes the followings: 
+- ID, Signal Strength of WLAN AP to be surveyed from the periphery; 
+- ID, Signal Strength to be surveyed from the peripheral base station (for GSM); 
+- ID, Signal Strength to be surveyed from the peripheral base station (for CDMA)."</string>
+    <string name="location_warning_message1">When the NLP (Network Location</string>
+    <string name="location_warning_message2">Provider) function is opened, you will</string>
+    <string name="location_warning_message3">allow Baidu NLP service to collect</string>
+    <string name="location_warning_message4">anonymous location data. Some data</string>
+    <string name="location_warning_message5">may be encrypted and stored on your</string>
+    <string name="location_warning_message6">device. Encryption and collection</string>
+    <string name="location_warning_message7">may occur even when no apps are</string>
+    <string name="location_warning_message8">running.You will be charged for data</string>
+    <string name="location_warning_message9">traffic. The data encrypted and</string>
+    <string name="location_warning_message10">collected will be used for getting the</string>
+    <string name="location_warning_message11">location information and improving the performance and accuracy. We promise the data collected will not be provided to others or be used for other purposes except to render services. The data to be collected includes the followings:</string>
+    <string name="location_warning_message12">- ID, Signal Strength of WLAN AP to be</string>
+    <string name="location_warning_message13">surveyed from the periphery;</string>
+    <string name="location_warning_message14">- ID, Signal Strength to be surveyed from</string>
+    <string name="location_warning_message15">the peripheral base station (for GSM);</string>
+    <string name="location_warning_message16">- ID, Signal Strength to be surveyed from</string>
+    <string name="location_warning_message17">the peripheral base station (for CDMA).</string>
+    <string name="location_close_warning_message">Closed NetworkLocation service will cause any application can not location.</string>
+    <string name="location_first_warning_message">In order to bring you a better user experience, the system will open network location service.</string>
+    <string name="location_warning_title_1">Location consent</string>
+    <string name="location_warning_title_first_1">Location consent</string>
+    <string name="location_warning_title_close_1">Location consent</string>
+    <string name="location_warning_message_1">"Allow Baidu's location service to collect anonymous location data. Some data may be stored on your device, and collection may occur even when no apps are running. Applicable data usage fees may apply during this process."</string>
+    <string name="always_wifi_scan_tip_tittle">Always allow scanning</string>
+    <string name="always_wifi_scan_tip_content">Allow network location service and applications to scan for WLANs, even when WLAN is turned off</string>
+    <string name="always_dialog_scan_tip_prompt">No prompt again</string>
+    <string name="agree">Agree</string>
+    <string name="disagree">Disagree</string>
+    <string name="close_agree">Yes</string>
+    <string name="close_disagree">No</string>
+</resources>
