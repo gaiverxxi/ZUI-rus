@@ -2,10 +2,10 @@
 <resources>
     <string name="defaultname">Carkit</string>
     <string name="process" />
-    <string name="bluetooth_remember_choice">Always Allow</string>
-    <string name="dun_notif_ticker">Bluetooth DUN request</string>
-    <string name="dun_notif_title">Session Key Request for DUN</string>
-    <string name="dun_notif_message">Touch to connect to \"%1$s\".</string>
+    <string name="bluetooth_remember_choice">Всегда позволять</string>
+    <string name="dun_notif_ticker">Запрос Bluetooth DUN</string>
+    <string name="dun_notif_title">Запрос ключа сеанса для DUN</string>
+    <string name="dun_notif_message">Нажмите, чтобы подключиться к \"%1$s\".</string>
     <string name="dun_acceptance_timeout_message">There was time out to accept connection with %1$s</string>
     <string name="bluetooth_dun_request">DUN request</string>
     <string name="bluetooth_dun_acceptance_dialog_text">%1$s would like to use DUN. Give access to %2$s?</string>
